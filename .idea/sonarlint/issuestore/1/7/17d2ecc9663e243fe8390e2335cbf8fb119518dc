@@ -1,0 +1,13 @@
+
+d
+java:S1128"BRemove this unused import 'com.netflix.discovery.converters.Auto'.(İ¼’²ùÿÿÿÿ8ÏÏÂıŒ/
+u
+java:S1128	"SRemove this unused import 'org.springframework.beans.factory.annotation.Qualifier'.(íàÄ®ıÿÿÿÿ8¡àÖşŒ/
+d
+java:S1128"BRemove this unused import 'com.netflix.discovery.DiscoveryClient'.(îƒÉ£úÿÿÿÿ8©¬çıŒ/
+b
+java:S1128"ERemove this unused import 'com.netflix.discovery.shared.Application'.(Ä‡Ò–8ö¼êıŒ/
+M
+java:S1128"0Remove this unused import 'javax.inject.Inject'.(ì–íÔ8ÏÏÂıŒ/
+
+java:S1128"lRemove this unused import 'org.springframework.boot.actuate.endpoint.web.annotation.RestControllerEndpoint'.(øöêøÿÿÿÿ8ëÔÆıŒ/
